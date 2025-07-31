@@ -1,8 +1,8 @@
 # Virome-of-Tibetan-Plateau-Wildlife
 This repository consists of two parts:
 
-Data analysis code;
+1、Data analysis code;
 
-Intermediate files;
+2、Intermediate files;
 
-Viral sequences;
+3、Viral sequences.
